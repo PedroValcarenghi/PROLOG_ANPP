@@ -19,7 +19,7 @@
   "homepage": "https://github.com/PedroValcarenghi/PROLOG_ANPP#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "node-telegram-bot-api": "^0.30.0",
+    "node-telegram-bot-api": "^0.66.0",
     "tau-prolog": "^0.2.66"
   }
 }
